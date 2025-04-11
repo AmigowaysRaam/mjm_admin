@@ -1,0 +1,6 @@
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/armeabi-v7a/CMakeFiles/appmodules.dir
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/armeabi-v7a/RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/armeabi-v7a/RNCWebViewSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/armeabi-v7a/RNCWebViewSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+# ninja log v5
+0	9030	1739533494756755056	CMakeFiles/appmodules.dir/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d08dd6274ba06e9c
+2	8798	1739533494521755967	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	e3f27a925b8eeb9e
+6	36	1739534972295357378	build.ninja	e41809dd0e041bcf
+0	3	0	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/x86_64/CMakeFiles/cmake.verify_globs	183d57ab019d2521
+11	6441	1739533492156765164	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	7f1f7d8d30fff30d
+0	6444	1739533492159765153	CMakeFiles/appmodules.dir/OnLoad.cpp.o	42f1c47bb7ea6b1c
+7	8675	1739533494397756448	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	2cf081ce913d3bff
+9030	9074	1739533494816754823	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/intermediates/cxx/RelWithDebInfo/5z3w465m/obj/x86_64/libappmodules.so	afe0506a813bc5d5
+0	3	0	clean	119c6bcfcaf12dca
+15	4507	1739533490235772681	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	849032cf6cded0bb
+1	6695	1739533492422764127	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	401c7a16a1203e9e
+14	7152	1739533492873762369	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	2f0a97917f1bf4b5
+5	8209	1739533493933758247	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	f334512a4156f09a
+0	6	0	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/RelWithDebInfo/5z3w465m/x86_64/CMakeFiles/cmake.verify_globs	183d57ab019d2521
+23	6356	1739534978673756076	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	849032cf6cded0bb
+19	8020	1739534980342859968	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	2f0a97917f1bf4b5
+10	8976	1739534981287918713	CMakeFiles/appmodules.dir/OnLoad.cpp.o	42f1c47bb7ea6b1c
+15	9203	1739534981521933248	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	7f1f7d8d30fff30d
+11	9319	1739534981648941137	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	401c7a16a1203e9e
+13	10191	1739534982513994837	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	f334512a4156f09a
+9	10303	1739534982629001973	CMakeFiles/appmodules.dir/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d08dd6274ba06e9c
+13	11108	1739534983437052084	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	e3f27a925b8eeb9e
+14	11398	1739534983728070123	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	2cf081ce913d3bff
+11398	11450	1739534983797074400	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/intermediates/cxx/RelWithDebInfo/5z3w465m/obj/x86_64/libappmodules.so	afe0506a813bc5d5

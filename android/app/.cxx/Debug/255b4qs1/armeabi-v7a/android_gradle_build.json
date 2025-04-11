@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "/home/ramm/projects/amigos/mjm_admin/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/home/ramm/projects/amigos/mjm_admin/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ramm/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/Debug/255b4qs1/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ramm/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/Debug/255b4qs1/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "appmodules",
+      "output": "/home/ramm/projects/amigos/mjm_admin/android/app/build/intermediates/cxx/Debug/255b4qs1/obj/armeabi-v7a/libappmodules.so",
+      "runtimeFiles": [
+        "/home/ramm/.gradle/caches/8.10.2/transforms/d7d422c0963f92aa7b8a765f3bd54231/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/home/ramm/.gradle/caches/8.10.2/transforms/d04e401f6db98d4307004fde50158b02/transformed/react-android-0.77.1-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/home/ramm/.gradle/caches/8.10.2/transforms/d04e401f6db98d4307004fde50158b02/transformed/react-android-0.77.1-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNCWebViewSpec::@eb48929f9f7453740a6c": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "react_codegen_RNCWebViewSpec"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/ramm/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/ramm/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

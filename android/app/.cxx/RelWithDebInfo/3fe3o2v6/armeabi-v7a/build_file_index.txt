@@ -1,0 +1,2 @@
+/home/ramm/projects/amigos/scriptzol(april)/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt
+/home/ramm/projects/amigos/scriptzol(april)/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

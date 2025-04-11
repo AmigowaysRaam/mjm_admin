@@ -1,0 +1,17 @@
+# ninja log v5
+7436	7559	1739531985634374068	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/intermediates/cxx/Debug/6v196oc5/obj/armeabi-v7a/libappmodules.so	a9dc6c2e19444ee
+9	7436	1739531985489372675	CMakeFiles/appmodules.dir/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	40efcf8d4461b284
+10	7126	1739531985178369690	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	2d644fa1ce977259
+6	58	1739534891508063154	build.ninja	887fb0cc371a569f
+8	16	0	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/Debug/6v196oc5/armeabi-v7a/CMakeFiles/cmake.verify_globs	4de9a35df4f06c62
+12	5112	1739531983161350332	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	ee4d96674fa3bc80
+9	6013	1739531984071359064	CMakeFiles/appmodules.dir/OnLoad.cpp.o	5aab83ebb19fd7a8
+10	6934	1739531984983367817	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	c2f7696849645f4c
+0	2	0	clean	119c6bcfcaf12dca
+18	3872	1739531981929338513	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	dd355057faf2ac41
+9	5638	1739531983689355398	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	aa3e287ed22a09f2
+16	6066	1739531984132359649	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	e95f54bab65d5197
+10	6494	1739531984545363613	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	2a9380eafecb8f4f
+16	91	1739534891508063154	build.ninja	887fb0cc371a569f
+0	4	0	/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/.cxx/Debug/6v196oc5/armeabi-v7a/CMakeFiles/cmake.verify_globs	4de9a35df4f06c62
+0	4	0	clean	119c6bcfcaf12dca

@@ -1,0 +1,6 @@
+/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/RelWithDebInfo/3t2r6x4b/x86/CMakeFiles/appmodules.dir
+/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/RelWithDebInfo/3t2r6x4b/x86/CMakeFiles/edit_cache.dir
+/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/RelWithDebInfo/3t2r6x4b/x86/CMakeFiles/rebuild_cache.dir
+/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/RelWithDebInfo/3t2r6x4b/x86/RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir
+/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/RelWithDebInfo/3t2r6x4b/x86/RNCWebViewSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/home/ramm/projects/amigos/mjm_admin/android/app/.cxx/RelWithDebInfo/3t2r6x4b/x86/RNCWebViewSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

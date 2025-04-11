@@ -1,0 +1,27 @@
+# ninja log v5
+14614	14780	1744269781402859570	/home/ramm/projects/amigos/scriptzol(april)/android/app/build/intermediates/cxx/Debug/4lu2h4s6/obj/arm64-v8a/libappmodules.so	11b2e2432e35ceb9
+7	13796	1744269780395824754	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	781e9515f3b97c65
+5	39	1744285138403058598	build.ninja	1f880ee230c7e016
+0	3	0	/home/ramm/projects/amigos/scriptzol(april)/android/app/.cxx/Debug/4lu2h4s6/arm64-v8a/CMakeFiles/cmake.verify_globs	43e1dec040b99ec0
+1	14614	1744269781196852449	CMakeFiles/appmodules.dir/home/ramm/projects/amigos/scriptzol(april)/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	3dfd3ba5661d27d6
+14	10603	1744269777178713449	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	cd731f32009312aa
+2	12088	1744269778694765916	CMakeFiles/appmodules.dir/OnLoad.cpp.o	14171765cc235a2c
+8	13608	1744269780204818149	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	6a99428b24ea8c71
+0	2	0	clean	119c6bcfcaf12dca
+16	7824	1744269774409617546	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	9f544d537a21e37b
+4	11388	1744269777983741314	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	eb938e0784d2efd6
+14	11649	1744269778257750795	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	e9fe7b4fb991a842
+7	12630	1744269779208783699	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	b3ec86283fdf8c09
+1	4	0	/home/ramm/projects/amigos/scriptzol(april)/android/app/.cxx/Debug/4lu2h4s6/arm64-v8a/CMakeFiles/cmake.verify_globs	43e1dec040b99ec0
+39	6290	1744285144778196469	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	9041ff1f2cd03d6d
+39	7786	1744285146274228808	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	3c69139d3a5586c8
+38	8101	1744285146609236049	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	8a5f8eddceae80b9
+38	8583	1744285147082246273	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3a2056d0e9644862
+39	8622	1744285147133247375	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	48064dbe64142fbe
+38	9144	1744285147642258376	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	2e37f17ebb1e70e3
+39	9666	1744285148160269571	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	fe5e0766aab55e0e
+38	10041	1744285148551278021	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	5c429645161e249e
+38	10226	1744285148736282019	CMakeFiles/appmodules.dir/home/ramm/projects/amigos/scriptzol(april)/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	87ee43652d11fac1
+10226	10474	1744285148999287702	/home/ramm/projects/amigos/scriptzol(april)/android/app/build/intermediates/cxx/Debug/4lu2h4s6/obj/arm64-v8a/libappmodules.so	11b2e2432e35ceb9
+3	10	0	/home/ramm/projects/amigos/scriptzol(april)/android/app/.cxx/Debug/4lu2h4s6/arm64-v8a/CMakeFiles/cmake.verify_globs	43e1dec040b99ec0
+6	10	0	/home/ramm/projects/amigos/scriptzol(april)/android/app/.cxx/Debug/4lu2h4s6/arm64-v8a/CMakeFiles/cmake.verify_globs	43e1dec040b99ec0

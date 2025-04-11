@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# React Native bundler
+/.expo
+/.vscode
+/.idea
+*.log
+
+# Build directories
+/android/.gradle/
+android/app/build/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# React Native specific
+*.jks
+*.keystore
+*.env
+
+# Watchman
+.watchmanconfig
+
+# JetBrains project files
+.idea/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo files (if you're using Expo)
+.expo/
+
+# React Native codegen
+/generated/
+
+# iOS build artifacts
+ios/build/
+ios/Pods/
+

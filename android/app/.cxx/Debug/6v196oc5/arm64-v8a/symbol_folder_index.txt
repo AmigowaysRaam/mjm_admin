@@ -1,0 +1,1 @@
+/home/ramm/projects/amigos/amigoways/amigowaysweb/android/app/build/intermediates/cxx/Debug/6v196oc5/obj/arm64-v8a
